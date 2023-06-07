@@ -1,6 +1,6 @@
-# Svelte + TS + Vite
+# Svelte-Template
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+A no-bs no-boilerplate template that will help get you started developing with [Svelte](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com), and [TypeScript](https://www.typescriptlang.org/) using [Vite](https://vitejs.dev/).
 
 ## Recommended IDE Setup
 
